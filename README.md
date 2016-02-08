@@ -17,14 +17,23 @@ double __x, __y, and __z: Each variable holds the coordinates for a point in 3D 
 ####Member Functions:
 
 Point(): The default constructor for the Point Class.
+
 Point(double, double, double): Constructor the takes in doubles to use as the coordinates of the Point.
+
 void setX(double): Takes in a double to set as the x-coordinate for the Point.
+
 void setY(double): Takes in a double to set as the y-coordinate for the Point.
+
 void setZ(double): Takes in a double to set as the z-coordinate for the Point.
+
 double getX() const: Returns the x-value of the Point.
+
 double getY() const: Returns the y-value of the Point.
+
 double getZ() const: Returns the z-value of the Point.
+
 double distanceTo(const Point &point) const: Returns the distance in 3-D space between this Point and another Point.
+
 
 ###Area Class:
 
