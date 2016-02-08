@@ -1,5 +1,5 @@
 //
-// Created by C# on 2/7/2016.
+// Created on 2/7/2016.
 //
 
 #include <cmath>
