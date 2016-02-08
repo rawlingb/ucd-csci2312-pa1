@@ -2,11 +2,11 @@
 
 ### 3D Point Class:
 
-####Point.h(https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/Point.h)
+####[Point.h](https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/Point.h)
 
 Description: Contains all the definitions for the point class methods and variables
 
-####Point.cpp(https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/Point.cpp)
+####[Point.cpp](https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/Point.cpp)
 
 Description: Contains the implementation for all of the point class methods.
 
@@ -28,7 +28,7 @@ double distanceTo(const Point &point) const: Returns the distance in 3-D space b
 
 ###Area Class:
 
-####area.cpp(https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/area.cpp)
+####[area.cpp](https://github.com/rawlingb/ucd-csci2312-pa1/blob/master/area.cpp)
 
 Description: Contains a method used to get the area of a triangle formed between three 3-D Points.
 
